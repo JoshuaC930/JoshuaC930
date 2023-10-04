@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @JoshuaC930 (Joshua Corrales)
-- 👀 I’m interested in Video games, programming, computer science...
+# Howdy, human!
+
+Welcome to my readme! There's not much going on here but I hope you have a nice day!
+
+If you couldn't tell already, I am Joshua. I'm mostly into video games and technology.
 - 🌱 I’m currently learning Computer Science at Boise State University...
 - 💞️ I’m looking to collaborate on ... Not much at the moment, I am still a programming novice so I'd most likely break something
 - 📫 How to reach me... You can reach me at joshuacorrales930@u.boisestate.edu
